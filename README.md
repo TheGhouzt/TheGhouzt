@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/-Java-9D4EDD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Python-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-SQL-9D4EDD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML/CSS-9D4EDD?style=for-the-badge" />
+
 </p>
 <h1>THE GHOUZT</h1>
 <h2>Info sobre mi 💀</h2>
