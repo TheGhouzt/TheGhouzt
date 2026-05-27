@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-SQL-9D4EDD?style=for-the-badge" />
 
 </p>
-<h1>THE GHOUZT</h1>
+<h1>THEGHOUZT</h1>
 <h2>Info sobre mi 💀</h2>
 Soy Analista Programador, estoy estudiando en la DUOC UC y hasta el momento me falta un gran camino por recorrer en lo que espero lograr.
-<h4>Estoy aprendiendo poco a poco sobre HTML entonces este diseño ira mejorando despues</h4>
+<h4>Estudiante de segiundo año</h4>
