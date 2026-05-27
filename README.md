@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/27225649-2c61-4e65-a52f-4b1c833216e2" width="280" alt="Logo Ghouzt Charizard ex">
+  <img src="https://github.com/user-attachments/assets/27225649-2c61-4e65-a52f-4b1c833216e2" width="290" alt="Logo Ghouzt Charizard ex">
   <h1>TheGhouzt</h1>
   <h2>Info sobre mí 💀</h2>
   
-  <p>Soy Analista Programador, estoy estudiando en la DUOC UC y hasta el momento me falta un gran camino por recorrer en lo que espero lograr.</p>
+  <p>Soy Analista Programador, estoy estudiando en el DUOC UC y hasta el momento me falta un gran camino por recorrer en lo que espero lograr.</p>
   <h4>Estudiante de segundo año</h4>
 
   <br>
