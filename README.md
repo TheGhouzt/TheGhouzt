@@ -25,10 +25,7 @@
   </p>
 </div>
 
-<div align="center">
-  <img width="35%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/34cba9ad-16e4-4b11-8507-5bf540e0bf64" />
-</div>
-
+<img align="right" src="https://github.com/user-attachments/assets/34cba9ad-16e4-4b11-8507-5bf540e0bf64" width="25%" alt="ghouzt_anim2"/>
 
 ### Hobbies
   - Creador de Contenido gameplay o anécdota
