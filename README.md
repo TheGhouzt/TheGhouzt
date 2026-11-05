@@ -24,3 +24,13 @@
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   </p>
 </div>
+
+<div align="center">
+  <img width="35%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/34cba9ad-16e4-4b11-8507-5bf540e0bf64" />
+</div>
+
+
+### Hobbies
+  - Creador de Contenido gameplay o anécdota
+  - Escuchar musica
+  - Ver cursos de programación
