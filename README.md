@@ -24,8 +24,15 @@
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   </p>
 </div>
+<div align="center">
 
-### Hobbies
-  - Creador de Contenido gameplay o anécdota
-  - Escuchar musica
-  - Ver cursos de programación
+<img align="right" width="17%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/79bbdae1-c9e0-49ef-b8a9-1a3ed4cb037d" />
+
+<img align="left" width="17%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/79bbdae1-c9e0-49ef-b8a9-1a3ed4cb037d" />
+
+## Hobbies
+🎬🕹️Creador de contenido gameplay o anécdota<br>
+📀📼Escuchar música<br>
+💻🐛Ver cursos de programación<br>
+🎨🖌️De vez en cuando dibujar
+</div>
