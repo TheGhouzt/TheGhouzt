@@ -26,9 +26,9 @@
 </div>
 <div align="center">
 
-<img align="right" width="17%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/79bbdae1-c9e0-49ef-b8a9-1a3ed4cb037d" />
+<img align="right" width="12%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/71efd1fb-b6c7-4501-b03a-b7a531863e37"/>
 
-<img align="left" width="17%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/79bbdae1-c9e0-49ef-b8a9-1a3ed4cb037d" />
+<img align="left" width="12%" alt="ghouzt_anim2" src="https://github.com/user-attachments/assets/71efd1fb-b6c7-4501-b03a-b7a531863e37"/>
 
 ## Hobbies
 🎬🕹️Creador de contenido gameplay o anécdota<br>
